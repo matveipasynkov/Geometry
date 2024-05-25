@@ -4,6 +4,7 @@
 #include <memory>
 #include <cstdint>
 namespace geometry {
+
 Circle::Circle(Point a, int64_t r) {
   center_ = a;
   radius_ = r;
