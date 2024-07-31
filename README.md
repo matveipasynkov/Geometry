@@ -1,4 +1,4 @@
-## Geometry
+# Geometry
 ## Vector
 Implemented Vector class for vector on the plane with necessary arithmetic operations (unary and binary +/-, multiplication/division by scalar, assignment versions of operations, equality comparison).
 
